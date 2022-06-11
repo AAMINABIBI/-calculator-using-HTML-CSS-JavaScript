@@ -1,0 +1,19 @@
+﻿.color {
+        background-color: #deeaf8;
+        border-radius: 30%;
+        font-size:30px;
+}
+.input{
+  height: 43px;
+    width: 56%;
+    background-color: azure;
+    border: 2px solid black;
+}
+.per{
+    margin:7px;
+    width:15%;
+}
+.add-btn{
+  background-color: aqua;
+  
+}
